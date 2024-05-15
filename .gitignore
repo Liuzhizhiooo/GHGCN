@@ -1,0 +1,8 @@
+.history
+__pycache__
+models/resnet/*
+!models/resnet/.gitkeep
+outputs/*
+!outputs/.gitkeep
+dataset/data/*
+!dataset/data/.gitkeep
