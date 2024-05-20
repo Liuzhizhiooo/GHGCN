@@ -23,9 +23,9 @@ The pretrained ResNet50 can be downloaded in this [link](https://download.pytorc
 `train model`
 
 ```sh
-# GID-15
+# GID15
 python main.py train --train=True --labelName=GID15 --model=GHGCN --tag=GID15-GHGCN
-# GID-24
+# GID24
 python main.py train --train=True --labelName=GID24 --model=GHGCN --tag=GID24-GHGCN
 ```
 
